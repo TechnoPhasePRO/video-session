@@ -23,11 +23,6 @@ This project is a backend system for managing non-linear video sessions. It allo
     npm install
     ```
 
-3. Set up your environment variables. Create a `.env` file in the root of the project and add your MongoDB connection string:
-    ```plaintext
-    MONGODB_URI=mongodb+srv://username:password@cluster0.wsrscyb.mongodb.net/video-session?retryWrites=true&w=majority
-    ```
-
 ## Endpoints
 
 ### Video Endpoints
@@ -210,10 +205,6 @@ This project is a backend system for managing non-linear video sessions. It allo
 
 Follow these steps to run the application:
 
-- Install dependencies:
-```bash
-npm install
-```
 - Set up environment variables:
 Create a .env file in the root directory and specify the following variables:
 ```
