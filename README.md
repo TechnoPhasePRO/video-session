@@ -14,8 +14,8 @@ This project is a backend system for managing non-linear video sessions. It allo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/video-session-management.git
-    cd video-session-management
+    git clone https://github.com/TechnoPhasePRO/video-session
+    cd video-session
     ```
 
 2. Install dependencies:
