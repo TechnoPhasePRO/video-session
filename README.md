@@ -41,6 +41,7 @@ This project is a backend system for managing non-linear video sessions. It allo
   "title": "Drops Of Liquid On A Tray To Be Use As Samples",
   "url": "https://www.pexels.com/video/drops-of-liquid-on-a-tray-to-be-use-as-samples-3195394/"
   }
+  ```
 - Response (JSON):
   ```json
   {
@@ -91,7 +92,9 @@ This project is a backend system for managing non-linear video sessions. It allo
   "title": "Liquid Droplet used as sample",
   "url": "https://www.pexels.com/video/drops-of-liquid-on-a-tray-to-be-use-as-samples-3195394/"
   }
+  ```
 - Response (JSON):
+ ```json
   {
     "_id": "6649af925c50f1c692e3d978",
     "title": "Liquid Droplet used as sample",
@@ -123,7 +126,9 @@ This project is a backend system for managing non-linear video sessions. It allo
   "userId": "Yash@Dev",
   "timestamp": "2024-05-19T12:00:00Z"
   }
+  ```
 - Response (JSON):
+ ```json
   {
     "videoId": "6649b0665c50f1c692e3d97e",
     "userId": "Yash@Dev",
@@ -176,7 +181,9 @@ This project is a backend system for managing non-linear video sessions. It allo
   "userId": "Yash@Dev321",
   "timestamp": "2024-05-19T15:00:00Z"
   }
+  ```
 - Response (JSON):
+ ```json
   {
     "_id": "6649b1755c50f1c692e3d986",
     "videoId": "6649b1755c50f1c692e3d986",
